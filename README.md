@@ -13,4 +13,5 @@ This project provides a comprehensive analysis of sales data using Python. It in
   - Interactive dashboards and visualizations
 ## **Getting Started 🚀**
   - Download the python file
+  - Before run the script be sure that you have install requires library in your python IDLE
   - Run the scripts to explore the analysis to learn
